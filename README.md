@@ -10,11 +10,11 @@ This project demonstrates a simple microservices architecture using Node.js and 
 
 ## 🧱 Project Structure
 
-microservices-example/
-│
-├── user-service.js
-├── product-service.js
-├── order-service.js
+    microservices-example/
+    │
+    ├── user-service.js
+    ├── product-service.js
+    ├── order-service.js
 
 yaml
 Copy
