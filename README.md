@@ -2,9 +2,9 @@
 
 This project demonstrates a simple microservices architecture using Node.js and Express. It includes three small services:
 
-- **User Service** – Provides user data
-- **Product Service** – Provides product data
-- **Order Service** – Combines data from the other two via API calls
+- **User Service** – Provides user data (3001)
+- **Product Service** – Provides product data (3002)
+- **Order Service** – Combines data from the other two via API calls (3003)
 
 ---
 
